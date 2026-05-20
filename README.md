@@ -5,6 +5,7 @@ This is my personal portfolio website developed as part of the Future Intern Int
 
 🔗 Live Demo
 https://siriportfolio.lovable.app
+
 💻 Technologies Used
 
 HTML
